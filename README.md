@@ -13,6 +13,10 @@ InputStream client for adaptive streams.
 - Google Widevine - on Linux systems is required WV library.
 - Source: https://github.com/xbmc/inputstream.adaptive
 
+### IPTV Simple PVR
+IPTV Live TV and Radio PVR client addon.
+ - Source: https://github.com/kodi-pvr/pvr.iptvsimple
+
 ### InputStream RTMP
 - Source: https://github.com/xbmc/inputstream.rtmp
 
