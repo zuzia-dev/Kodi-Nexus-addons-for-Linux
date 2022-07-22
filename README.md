@@ -7,6 +7,7 @@ InputStream Client for FFmpeg streams (libavformat).
 ##### Plugin - List all available versions:
 - [v20.2.2-Nexus-inputstream-ffmpegdirect-for-Linux.zip](https://github.com/zuzia-dev/Kodi.Nexus.addons.for.Linux/releases/download/v20.2.2-Nexus/v20.2.2-Nexus-inputstream-ffmpegdirect.zip) 
 - [v20.2.3-Nexus-inputstream-ffmpegdirect-for-Linux.zip](https://github.com/zuzia-dev/Kodi.Nexus.addons.for.Linux/releases/download/v20.2.3-Nexus/v20.2.3-Nexus-inputstream-ffmpegdirect.zip)
+- [v20.3.0-Nexus-inputstream-ffmpegdirect-for-Linux.zip](https://github.com/zuzia-dev/Kodi.Nexus.addons.for.Linux/releases/download/v20.3.0-Nexus/v20.3.0-Nexus-inputstream-ffmpegdirect.zip)
 
 ### InputStream Adaptive
 InputStream client for adaptive streams.
