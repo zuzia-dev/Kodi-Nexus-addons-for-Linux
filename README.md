@@ -5,7 +5,7 @@ Addons for Kodi "Nexus" Alpha 1 for Linux distributions based on Debian and Ubun
 InputStream Client for FFmpeg streams (libavformat).
 - Source: https://github.com/xbmc/inputstream.ffmpegdirect
 ##### Plugin - List all available versions:
-- [v20.3.0-Nexus-inputstream-ffmpegdirect-for-Linux.zip](https://github.com/zuzia-dev/Kodi.Nexus.addons.for.Linux/releases/download/v20.3.0-Nexus/v20.3.0-Nexus-inputstream-ffmpegdirect.zip)
+- [v20.4.0-Nexus-inputstream-ffmpegdirect-for-Linux.zip](https://github.com/zuzia-dev/Kodi-Nexus-addons-for-Linux/releases/download/v20.4.0-Nexus/v20.4.0-Nexus-inputstream-ffmpegdirect.zip)
 
 ### InputStream Adaptive
 InputStream client for adaptive streams.
