@@ -1,6 +1,6 @@
 # Kodi Nexus addons for Linux
-Addons for Kodi "Nexus" Alpha 1 for Linux distributions based on Debian and Ubuntu. 
-
+Addons for Kodi "Nexus" Alpha 1 for Linux distributions based on Debian and Ubuntu. For development purpose only.
+    
 ### InputStream FFmpeg Direct
 InputStream Client for FFmpeg streams (libavformat).
 - Source: https://github.com/xbmc/inputstream.ffmpegdirect
