@@ -1,6 +1,9 @@
 # Kodi Nexus addons for Linux
+[![Generic badge](https://img.shields.io/badge/Platform-Kodi.tv-<COLOR>.svg)](https://kodi.tv/) [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://github.com/OpenWrt-Repository/openwrt#license)
+
 Addons for Kodi 20.0 "Nexus" for Linux distributions based on Debian and Ubuntu. For development purpose only.
-    
+
+
 ### InputStream FFmpeg Direct
 InputStream Client for FFmpeg streams (libavformat).
 - Source: https://github.com/xbmc/inputstream.ffmpegdirect/tree/Nexus
