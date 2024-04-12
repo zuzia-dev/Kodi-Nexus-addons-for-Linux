@@ -10,9 +10,9 @@ InputStream Client for FFmpeg streams (libavformat).
 - Zip file: [v20.5.1-Nexus-2024-04-12-inputstream.ffmpegdirect.zip](https://github.com/zuzia-dev/Kodi-Nexus-addons-for-Linux/raw/main/v20.5.1-Nexus-2024-04-12-inputstream.ffmpegdirect.zip)
 
 ### InputStream Adaptive
-InputStream client for adaptive streams.
-- Google Widevine - on Linux systems is required WV library.
+InputStream client for adaptive streams. Google Widevine - on Linux systems is required WV library.
 - Source: https://github.com/xbmc/inputstream.adaptive/tree/Nexus
+- Zip file: [v20.3.18-Nexus-2024-04-12-inputstream.adaptive.zip](https://github.com/zuzia-dev/Kodi-Nexus-addons-for-Linux/raw/main/v20.3.18-Nexus-2024-04-12-inputstream.adaptive.zip)
 
 ### IPTV Simple PVR
 IPTV Live TV and Radio PVR client addon.
