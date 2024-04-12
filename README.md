@@ -17,6 +17,7 @@ InputStream client for adaptive streams. Google Widevine - on Linux systems is r
 ### IPTV Simple PVR
 IPTV Live TV and Radio PVR client addon.
  - Source: https://github.com/kodi-pvr/pvr.iptvsimple/tree/Nexus
+ - Zip file: [v20.13.0-Nexus-2024-04-13-pvr.iptvsimple.zip](https://github.com/zuzia-dev/Kodi-Nexus-addons-for-Linux/raw/main/v20.13.0-Nexus-2024-04-13-pvr.iptvsimple.zip)
  
  ### PVR-Addon for Waipu
 Waipu.tv PVR client for Kodi.
