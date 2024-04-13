@@ -35,6 +35,7 @@ Zattoo PVR client for Kodi.
 
 ### Peripheral Joystick
 - Source: https://github.com/xbmc/peripheral.joystick/tree/Nexus
+- Zip file: [v20.1.15-Nexus-2024-04-13-peripheral.joystick.zip](https://github.com/zuzia-dev/Kodi-Nexus-addons-for-Linux/raw/main/v20.1.15-Nexus-2024-04-13-peripheral.joystick.zip)
 
 ### Other Features
 - Compiled with gcc version 12.2.0 (Debian 12.2.0-14) and enable Debug flag (Kodi should also be built as Debug).
