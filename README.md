@@ -27,6 +27,7 @@ Waipu.tv PVR client for Kodi.
 ### PVR-Addon for Zattoo
 Zattoo PVR client for Kodi.
  - Source: https://github.com/rbuehlma/pvr.zattoo/tree/Nexus
+ - Zip file: [v20.3.14-Nexus-2024-04-13-pvr.zattoo.zip](https://github.com/zuzia-dev/Kodi-Nexus-addons-for-Linux/raw/main/v20.3.14-Nexus-2024-04-13-pvr.zattoo.zip)
 
 ### InputStream RTMP
 - Source: https://github.com/xbmc/inputstream.rtmp/tree/Nexus
