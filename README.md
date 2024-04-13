@@ -31,6 +31,7 @@ Zattoo PVR client for Kodi.
 
 ### InputStream RTMP
 - Source: https://github.com/xbmc/inputstream.rtmp/tree/Nexus
+- Zip file: [v20.3.0-Nexus-2024-04-13-inputstream.rtmp.zip](https://github.com/zuzia-dev/Kodi-Nexus-addons-for-Linux/raw/main/v20.3.0-Nexus-2024-04-13-inputstream.rtmp.zip)
 
 ### Peripheral Joystick
 - Source: https://github.com/xbmc/peripheral.joystick/tree/Nexus
