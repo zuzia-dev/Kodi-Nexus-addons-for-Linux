@@ -1,10 +1,16 @@
 # Kodi Nexus addons for Linux
-[![Generic badge](https://img.shields.io/badge/Platform-KODI-<COLOR>.svg)](https://kodi.tv/) 
-![Kodi version](https://img.shields.io/badge/versions-20-teal)
+[![Generic badge](https://img.shields.io/badge/Platform-KODI-<COLOR>.svg)](https://kodi.tv/)
+![Kodi version](https://img.shields.io/badge/Versions-20-orange)
+![GitHub latest commit](https://img.shields.io/github/last-commit/zuzia-dev/Kodi-Matrix-addons-for-Linux?color=00BFFF)
+[![Generic badge](https://img.shields.io/badge/Repository-Yes-yellow.svg)](https://kodi.tv/)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
 Addons for Kodi 20.5 "Nexus" for Linux distributions based on Debian and Ubuntu. For development purpose only.
 
+
+## Installation & Updates
+> ###### Add-ons are in the repository: [Repozytorium-Kodi](https://repozytorium-kodi.github.io/Repozytorium-Kodi.zip)
+> ###### Installation via Kodi's file-manager, add source: https://repozytorium-kodi.github.io
 
 ### InputStream FFmpeg Direct
 InputStream Client for FFmpeg streams (libavformat).
